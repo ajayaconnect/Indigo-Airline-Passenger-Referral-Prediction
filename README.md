@@ -1,4 +1,4 @@
-# Airline-Passenger-Referral-Prediction
+# Indigo Airline-Passenger-Referral-Prediction
 Project Title:
 IndiGo Airline Referral Prediction
 
