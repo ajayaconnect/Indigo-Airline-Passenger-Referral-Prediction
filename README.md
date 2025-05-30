@@ -11,7 +11,7 @@ In the dynamic and highly competitive airline industry, companies like IndiGo ar
 ## Problem Statement:
 The airline industry is highly competitive, and customer satisfaction and loyalty are key determinants of an airline’s success. This project aims to create a predictive model that precisely identifies passengers likely to advocate for the airline. This insight enables IndiGo to enhance customer service, tailor marketing and loyalty programs, improve brand reputation, and make informed business decisions, ultimately driving revenue growth.
 
-![Data Visualization](https://images.unsplash.com/photo-1656261538631-3e1d3964763b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Data Visualization]()
 
 
 ## Goal of the Project:
