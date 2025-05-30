@@ -1,6 +1,6 @@
 # Indigo Airline-Passenger-Referral-Prediction
 
-![Indigo Airline Logo](https://seekvectorlogo.com/wp-content/uploads/2022/01/indigo-vector-logo-2022-small.png)
+![Indigo Airline Logo](https://github.com/ajayaconnect/Indigo-Airline-Passenger-Referral-Prediction/blob/49bce11984dc4d102c7a33b4a7a8c6c15b7ef387/indigo-seeklogo.png)
 
 ## Project Title:
 **IndiGo Airline Referral Prediction**
